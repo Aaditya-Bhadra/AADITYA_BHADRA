@@ -27,16 +27,6 @@ body {
   animation: text-animation 10s infinite;
 }
 
-/* .first {
-  background-color:#20a7d8;
-}
-.second {
-  background-color:#CD921E;
-}
-.third {
-  background-color:#c10528;
-} */
-
 @keyframes text-animation {
   0% {margin-top: 0;}
   10% {margin-top: 0;}

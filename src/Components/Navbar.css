@@ -6,19 +6,7 @@
     top: 0;
     background-color: yellow
 }
-/* .photo::before{
-    content: "";
-    background-image: url('../Img-Nav-2.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 540px;
-    z-index: -1;
-    opacity: 0.8;
-} */
+
 .Nav-Items{
     text-decoration: none;
     top: 15px;

@@ -18,13 +18,15 @@
     margin: 20px 30px;
     scroll-behavior:smooth;
     padding:5px 10px;
-    border: 12px rgb(223, 212, 212) double;
-    box-shadow: 2px 8px rgb(255, 197, 6, 0.8);
+    background-color: rgb(227, 219, 219, 0.8);
+    color: rgb(77, 74, 74);
+    border-radius: 25px;
 }
 .elements img{
     border-radius: 0;
     height: 250px;
     width: 400px;
+    padding: 10px;
     background-color: rgba(169, 169, 169, 0.774);
 }
 .elements img:hover{

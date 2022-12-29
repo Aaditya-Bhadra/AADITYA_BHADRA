@@ -4,11 +4,11 @@ import { MdOutlineEmail } from "react-icons/md";
 import { BsHouseDoor, BsTelephone, BsStar, BsGithub } from "react-icons/bs";
 import { AiFillCaretRight } from "react-icons/ai";
 import { TfiHandPointRight } from "react-icons/tfi";
-// import { GiBulletBill } from "react-icons/gi";
+import { BsCloudDownload } from "react-icons/bs";
 function resume() {
   return (
     <>
-      <a href="/" className='Nav-Items'>back</a>
+      {/* <a href="/" className='Nav-Items'>back</a> */}
       <div className='box'>
         <div className='heading'>
           <h1>RESUME</h1>
@@ -88,6 +88,7 @@ function resume() {
                  <a href="https://www.coursera.org/account/accomplishments/certificate/FSV6WB4ABUS5" target={"_blank"} rel={"noreferrer"}><TfiHandPointRight style={{margin:"0px 10px 0 0"}} /><strong>Introduction to Front-End Development</strong>-Coursera</a>
                 </div>
               </div>
+                <a href="https://drive.google.com/file/d/1PrWliKQq4XMHrUHd5hxF6310EXv2eVMj/view?usp=share_link" className='loadL'><BsCloudDownload style={{padding:"0 15px 0 0"}}/>Download</a>
             </div>
           </div>
         </div>

@@ -94,12 +94,20 @@
 }
 .certi a{
     text-decoration: none;
-    color: black;
+    color: rgb(231, 248, 199);
     margin: 10px 20px;
     font-size: 22px;
     display: inline-block;
 }
 .courcera a:hover{
+    text-decoration: underline;
+    color:blue;
+    zoom: 105%;
+}
+.loadL{
+    float: right;
+}
+.loadL:hover{
     text-decoration: underline;
     color:blue;
     zoom: 105%;

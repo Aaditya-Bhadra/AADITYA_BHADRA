@@ -18,8 +18,8 @@
     margin: 20px 30px;
     scroll-behavior:smooth;
     padding:5px 10px;
-    background-color: rgb(227, 219, 219, 0.8);
-    color: rgb(77, 74, 74);
+    background-color: rgb(227, 219, 219, 0.2);
+    color: rgb(39, 37, 37);
     border-radius: 25px;
 }
 .elements img{

@@ -1,10 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
-}
 .Nav{
     top: 0;
-    background-color: yellow
 }
 
 .Nav-Items{
@@ -13,9 +8,9 @@
     margin: 10px;
     padding: 10px;
     float: right;
-    color: rgb(65, 160, 65);
+    color: rgb(255, 255, 255);
     font-weight: 900;
-    font-size: large;
+    font-size: x-large;
 }
 .Nav-Items:hover{
     color: yellow;
@@ -24,4 +19,8 @@
     margin: 10px 15px;
     padding: 5px 5px;
 }
-  
+@media (max-width : 900px) {
+    .cer {
+    display: none;
+}}
+
